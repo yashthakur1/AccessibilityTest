@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityTest</string>
+    <string name="accessibility_description">Chrome Url Detector</string>
+</resources>
